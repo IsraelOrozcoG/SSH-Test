@@ -4,4 +4,6 @@
 
 ### Es una opcion viable para no guardar una key y tener que "renovar" cada cierto tiempo
 
-### A continuacion se dara un pequeño tutorial sobre como usar SSH
+## Pasos a seguir
+
+### 1.- Debes tener una cuenta de github
